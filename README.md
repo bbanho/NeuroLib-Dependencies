@@ -2,15 +2,15 @@
 Para executar a instalação automática basta copiar o conteúdo deste diretório para onde deseja instalar. A seguir, execute diretamente o script install.sh.
 
 ```bash
-$ git clone https://github.com/bbanho/NeuroLib-Dependencies.git
-$ cd NeuroLib-Dependencies
+$ git clone https://github.com/bbanho/NeuroLibDependencies.git
+$ cd NeuroLibDependencies
 $ yes | sh install.sh
 ```
 
 Ou apenas
 
 ```bash
-$ git clone https://github.com/bbanho/NeuroLib-Dependencies.git; cd NeuroLib-Dependencies; yes | sh install.sh
+$ git clone https://github.com/bbanho/NeuroLibDependencies.git; cd NeuroLibDependencies; yes | sh install.sh
 ```
 
 ## Etc
