@@ -13,4 +13,8 @@ pillow
 #
 h5py
 python-snap7
-
+#
+phoenix
+gooey
+sklearn
+scikit-image
